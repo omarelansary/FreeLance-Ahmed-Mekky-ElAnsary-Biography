@@ -1,0 +1,34 @@
+#title{
+    
+    /* background-color: #ff4c68;  #845EC2, #008F7A*/
+    background-image: linear-gradient(to bottom right,#3399CC,#9BE1FB );
+}
+h1{
+font-family: "Times New Roman", Times, serif;
+/* font-family: 'Ubuntu', sans-serif; */
+font-size: 12vw;
+font-weight: bold;
+line-height: 3;
+}
+ul,li{
+    text-align: right;
+}
+
+#navcontainer{
+    padding: 10% 10%;
+}
+#photo{
+    transform: rotate(0deg);
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 50%;
+}
+.logoimg{
+    width: 18%;
+    height: 10%;
+    align-items: left;
+}
+body{
+    font-family: "Times New Roman", Times, serif;
+    text-align: right;
+}
